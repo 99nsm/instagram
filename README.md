@@ -163,4 +163,5 @@ create table comment (
 
 직접 수정해야 할 코드
 MypageController, ArticleController 에 있는 이미지 업로드하고 다운받는 경로 수정해야합니다
+
 ex) private static final String F_PATH = "C:/Users/나상민/OneDrive/바탕 화면/tp_instagram/instagram/src/main/webapp/resources/img/";
