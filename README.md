@@ -1,4 +1,4 @@
-[instagram_ppt.pdf](https://github.com/user-attachments/files/16157139/instagram_ppt.pdf)[instagram_ppt.pdf](https://github.com/user-attachments/files/16157137/instagram_ppt.pdf)![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=KyungMo's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+type=wave&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=KyungMo's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 
 #  Team_project : Instagram
