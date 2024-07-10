@@ -57,6 +57,10 @@ instagram 리모델링
 + 상세 페이지 : 사용자 프로필 사진 등 팔로우 및 게시글 관련 정보 노출
 + 게시물 만들기 페이지 : 게시글 작성 기능
 + 마이 페이지 : 현재 로그인한 사용자 정보 변경 가능
+  
+
+## 📎이미지
+![1](https://github.com/99nsm/instagram/assets/166674058/98e0cde3-c3fd-4b20-a5fe-405b6f83bc0d)
 
 
 ## 📎기타 자료 
@@ -116,7 +120,6 @@ create table comment (
                          C_class int(10) not null,
                          C_group_num int(10) not null,
                          C_order nt(10) not null,
-
                          primary key(C_seqno)
 );
 
