@@ -60,25 +60,45 @@ instagram 리모델링
   
 
 ## 📎이미지
+
 로그인 페이지
+
 ![1](https://github.com/99nsm/instagram/assets/166674058/98e0cde3-c3fd-4b20-a5fe-405b6f83bc0d)
+
 회원가입 페이지
+
 ![2](https://github.com/99nsm/instagram/assets/166674058/5d95786c-d59e-4a2d-9c42-2afb0d9d0c2a)
+
 비밀번호 찾기 페이지
+
 ![4](https://github.com/99nsm/instagram/assets/166674058/c08350a1-8ada-45aa-8dc3-1d2e238ec96e)
+
 메인 페이지
+
 ![5](https://github.com/99nsm/instagram/assets/166674058/002a2bae-67fa-4185-b719-bc4581cdd1f4)
+
 햄버거 버튼
+
 ![6](https://github.com/99nsm/instagram/assets/166674058/b4fd805e-5f3b-4aea-91ff-7f488411900f)
+
 검색 페이지
+
 ![7](https://github.com/99nsm/instagram/assets/166674058/c93aec4a-233e-4d57-9056-10570326c848)
+
 상세 페이지
+
 ![8](https://github.com/99nsm/instagram/assets/166674058/eee1edc3-1a52-4f68-80c7-cd6bb2737c48)
+
 만들기 페이지
+
 ![9](https://github.com/99nsm/instagram/assets/166674058/9aa98f90-dab5-49d0-abe2-f6c885fd9e7b)
+
 회원정보 수정 페이지
+
 ![10](https://github.com/99nsm/instagram/assets/166674058/a2eccdb5-c9aa-4c14-988b-db6be55b71a5)
+
 댓글 및 답글
+
 ![11](https://github.com/99nsm/instagram/assets/166674058/a40d1a6e-8781-4622-8417-55d7a328caca)
 
 ## 📎기타 자료 
