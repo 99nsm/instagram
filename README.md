@@ -64,6 +64,7 @@ instagram 리모델링
 
 
 데이터 베이스 생성 및 테이블 생성 쿼리문
+
 create database instagram;
 
 use instagram;
