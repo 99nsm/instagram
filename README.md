@@ -78,7 +78,6 @@ create table user_info (
                            gender int(10) not null,
                            user_desc varchar(255),
                            user_photo varchar(255),
-
                            primary key(U_seqno)
 );
 
@@ -86,7 +85,6 @@ create table follow (
                         F_seqno int auto_increment,
                         follower_id varchar(255) not null,
                         following_id varchar(255) not null,
-
                         primary key(F_seqno)
 );
 
@@ -99,7 +97,6 @@ create table article (
                          A_userPhoto varchar(255),
                          A_Heart int default 0,
                          A_comment int default 0,
-
                          primary key(A_seqno)
 );
 
@@ -107,7 +104,6 @@ create table heart (
                        H_seqno int auto_increment,
                        FK_A_seqno int not null,
                        H_writer varchar(255) not null,
-
                        primary key(H_seqno)
 );
 
@@ -119,11 +115,11 @@ create table comment (
                          C_reg_date datetime default now(),
                          C_class int(10) not null,
                          C_group_num int(10) not null,
-                         C_order int(10) not null,
+                         C_order nt(10) not null,
 
                          primary key(C_seqno)
 );
 
-직접 수정해야할 코드
-** MypageController, ArticleController 에 있는 이미지 업로드하고 다운받는 경로 수정해야합니다
+직접 수정해야 할 코드
+MypageController, ArticleController 에 있는 이미지 업로드하고 다운받는 경로 수정해야합니다
 ex) private static final String F_PATH = "C:/Users/나상민/OneDrive/바탕 화면/tp_instagram/instagram/src/main/webapp/resources/img/";
